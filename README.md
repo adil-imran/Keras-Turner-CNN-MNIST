@@ -5,3 +5,4 @@
 - Model has secured 91% accuracy
 - Checked the accuracy with Keras Confusion Matrix
 - At the end visualized the accuracy by using seaborn
+- All the work done in Google colab by using GPU
